@@ -22,7 +22,7 @@ public class AppTest
     }
 
     /**
-     * @return the suite of tests being tested b11
+     * @return the suite of tests being tested
      */
     public static Test suite()
     {
